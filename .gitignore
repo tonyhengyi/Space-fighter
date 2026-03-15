@@ -1,0 +1,29 @@
+﻿# Visual Studio 缓存与配置
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# 编译输出目录
+build/
+out/
+bin/
+obj/
+x64/
+x86/
+
+# 可执行文件与调试中间件
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+
+# 依赖管理 (如果你用了 vcpkg)
+vcpkg_installed/
+
+# 操作系统临时文件
+Thumbs.db
+.DS_Store
